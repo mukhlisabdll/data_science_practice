@@ -1,5 +1,3 @@
-# Latihan 6: Membuat Array Acak dan Mencari Nilai Minimum serta Maksimum
-
 # Mengimpor library NumPy dan memberi alias np
 import numpy as np  
 

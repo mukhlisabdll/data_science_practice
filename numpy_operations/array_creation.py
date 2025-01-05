@@ -1,5 +1,3 @@
-# Latihan 1: Membuat Array Numpy dari Daftar Python
-
 # Mengimpor library NumPy dan memberi alias np
 import numpy as np
 

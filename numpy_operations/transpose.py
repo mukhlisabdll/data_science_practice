@@ -1,5 +1,3 @@
-# Latihan 7: Melakukan Transpose pada Array 2D
-
 # Mengimpor library NumPy dan memberi alias np
 import numpy as np  
 

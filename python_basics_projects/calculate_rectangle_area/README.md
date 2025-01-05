@@ -74,15 +74,3 @@ Kode ini dibuat untuk:
 
 - Membantu pemula belajar Python.
 - Memahami penggunaan fungsi, validasi input, dan pengulangan.
-
-## Lisensi
-
-Kode ini menggunakan lisensi [MIT License](LICENSE), sehingga bebas digunakan dan dimodifikasi.
-
-## Kontribusi
-
-Jika Anda memiliki ide untuk meningkatkan program ini, jangan ragu untuk membuat _pull request_ atau membuka _issue_ di repository ini.
-
----
-
-**Catatan:** Kode ini dibuat sebagai bagian dari proses belajar Python. Saya mendapatkan bantuan dalam membuat dan mendokumentasikan kode ini melalui diskusi dengan ChatGPT.

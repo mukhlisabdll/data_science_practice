@@ -1,5 +1,3 @@
-# Latihan 8: Menghitung Dot Product dari Dua Array
-
 # Mengimpor pustaka NumPy dengan alias 'np'
 import numpy as np
 

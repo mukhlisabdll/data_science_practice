@@ -1,5 +1,3 @@
-# Latihan 3: Operasi Eksponensial pada Array
-
 # Mengimpor library NumPy untuk operasi numerik
 import numpy as np
 

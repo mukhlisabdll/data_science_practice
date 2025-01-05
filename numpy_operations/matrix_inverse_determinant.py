@@ -1,5 +1,3 @@
-# Latihan 9: Menghitung Invers dan Determinan Matriks
-
 # Mengimpor pustaka NumPy dengan alias 'np'
 import numpy as np
 

@@ -1,5 +1,3 @@
-# Latihan 4: Membuat Array 2D dan Melakukan Slicing
-
 # Mengimpor library NumPy dan memberikan alias np untuk kemudahan
 import numpy as np
 

@@ -4,7 +4,7 @@ import pandas as pd
 # Membuat dictionary dengan kunci 'Nama', 'Umur', dan 'Jurusan'
 data = {
     'Nama' : ['Mukhlis', 'Shanum', 'Berlin'],  # Daftar nama mahasiswa
-    'Umur' : [22, 20, 21],                    # Daftar umur mahasiswa
+    'Umur' : [22, 20, 21],                     # Daftar umur mahasiswa
     'Jurusan' : ['Informatika', 'Fisika', 'Matematika']  # Daftar jurusan mahasiswa
 }
 

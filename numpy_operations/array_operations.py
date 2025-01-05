@@ -1,5 +1,3 @@
-# Latihan 2: Operasi Penjumlahan, Pengurangan, Perkalian, dan Pembagian 
-
 # Mengimpor library NumPy dengan memberi alias np
 import numpy as np
 
@@ -7,7 +5,7 @@ import numpy as np
 array1 = np.array([10, 20, 30])
 array2 = np.array([1, 2, 3])
 
-# Melakukan operasi dasar pada kedua arrayw
+# Melakukan operasi dasar pada kedua array
 penjumlahan = array1 + array2
 pengurangan = array1 - array2
 perkalian = array1 * array2

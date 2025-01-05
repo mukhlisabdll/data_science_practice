@@ -1,5 +1,3 @@
-# Latihan 5: Menghitung Mean, Median, dan Standar Deviasi
-
 # Mengimpor library NumPy dan memberikan alias np untuk kemudahan
 import numpy as np
 
